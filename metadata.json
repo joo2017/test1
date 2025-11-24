@@ -1,0 +1,5 @@
+{
+  "name": "K-Pop Forum Lucky Draw",
+  "description": "A vibrant, K-pop themed forum page featuring an integrated lucky draw system. Users reply to enter, Gemini analyzes their 'Fan Hype' level, and a random winner is selected.",
+  "requestFramePermissions": []
+}
